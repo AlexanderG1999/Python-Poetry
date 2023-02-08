@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "newproject"
+version = "0.1.0"
+description = ""
+authors = ["AlexanderG1999 <95202925+AlexanderG1999@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+plyer = "^2.1.0"
+datetime = "^5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
